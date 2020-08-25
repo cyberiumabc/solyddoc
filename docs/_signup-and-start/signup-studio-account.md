@@ -3,17 +3,18 @@ title: Register for account
 sort_key: A
 ---
 
-You can install the Go implementation of Cyberium using a variety of ways. These include installing it via your favorite package manager; downloading a standalone pre-built bundle; running as a docker container; or building it yourself. This document details all of the possibilities to get you joining the Cyberium network using whatever means you prefer.
+Register for account at https://web.thesolyd.com by entering your full name, email, phone number and password. You should carefully read through the policies and terms and conditions of the platform. You should only proceed further if you agree to all the terms and conditions and site policies. In a nutshell, the platform captures the data provided by you through your browser. Since the platform links everyone with a decentralized ledger, it is impossible to be forgotten. The ledger is not controlled by us and resides at numerous places across the users computers and devices.
+Next, you should confirm your email by clicking on the link sent by "support@thesolyd.com".
 
 {:toc}
 
 -   this will be removed by the toc
 
-## Install from a package manager
+## Home page
 
-### Install on macOS via Homebrew
+### View all your statistics [as user]
 
-The easiest way to install cyberium is to use our
+Home page is place for end users to view and manage all the resources like wallets, contracts, Applications(including Dapps), transactions, and peers. The page also lists new apps which the user hasn't tried yet. 
 Homebrew tap. If you don't have Homebrew, [install it first](http://brew.sh).
 
 Run the following commands to add the tap and install `geth`:
