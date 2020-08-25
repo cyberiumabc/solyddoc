@@ -1,6 +1,6 @@
 ---
-title: Install
+title: Startup
 root: ..
-permalink: /install/
+permalink: /startup/
 ---
-See [Installing Geth](../docs/signup-and-start/installing-geth).
+See [Startup](../docs/signup-and-start/signup-studio-account).
