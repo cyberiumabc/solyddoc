@@ -1,1 +1,1 @@
-bundle exec jekyll serve  --incremental  -l -o
+bundle exec jekyll serve  --incremental  -l 
