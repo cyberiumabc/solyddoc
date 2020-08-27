@@ -1,9 +1,9 @@
 ---
-title: Multi Blockchain Networks
+title: Multi Blockchain Network
 sort_key: A
 ---
 
-This guide explains how to set up a multi blockchain network of multiple Geth nodes. An Cyberium
+This guide explains how to set up a multi blockchain network of variety of blockchains using SOLYD & Cyberium. Geth nodes. An Cyberium
 network is a private network if the nodes are not connected to the main network. In this
 context private only means reserved or isolated, rather than protected or secure.
 
