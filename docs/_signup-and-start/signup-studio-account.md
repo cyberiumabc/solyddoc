@@ -1,5 +1,5 @@
 ---
-title: Register for account
+title: Register for cloud account
 sort_key: A
 ---
 
@@ -14,27 +14,9 @@ Next, you should confirm your email by clicking on the link sent by "support@the
 
 ### View all your statistics [as user]
 
-Home page is place for end users to view and manage all the resources like wallets, contracts, Applications(including Dapps), transactions, and peers. The page also lists new apps which the user hasn't tried yet. 
-Homebrew tap. If you don't have Homebrew, [install it first](http://brew.sh).
+Home page is place for end users to view and manage all the resources like wallets, contracts, Applications(including Dapps), transactions, and peers. The page also lists new apps which the user hasn't tried yet.
 
-Run the following commands to add the tap and install `geth`:
-
-```shell
-brew tap ethereum/ethereum
-brew install ethereum
-```
-
-You can install the master branch using the `--devel` parameter:
-
-```shell
-brew install ethereum --devel
-```
-
-The `abigen`, `bootnode`, `checkpoint-admin`, `clef`, `devp2p`, `ethkey`, `evm`, `faucet`, `geth`, `p2psim`, `puppeth`, `rlpdump`, and `wnode` commands are then available on your system in `/usr/local/bin/`.
-
-Find the different options and commands available with `geth --help`.
-
-### Install on Ubuntu via PPAs
+### View wallets & 
 
 The easiest way to install cyberium on Ubuntu-based distributions is with the built-in launchpad PPAs (Personal Package Archives). We provide a single PPA repository that contains both our stable and development releases for Ubuntu versions `trusty`, `xenial`, `zesty` and `artful`.
 
