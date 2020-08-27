@@ -1,12 +1,12 @@
 ---
-title: Geth Documentation
+title: SOLYD Studio Documentation
 root: ..
 ---
 
-You have found the user manual for geth, the Go language implementation of Cyberium.
+You have found the user manual for SOLYD Studio, the Identity And Workflow Platform for Web.
 
 * [Getting Started Guide](./getting-started)
-* [Installation Instructions](./signup-and-start/installing-geth)
+* [Cloud Startup Instructions](./signup-and-start/installing-geth)
 * [JSON-RPC Server](./rpc/server)
 * [JavaScript Console](./interface/javascript-console)
 
