@@ -1,7 +1,7 @@
 ---
 title: FAQ
 permalink: docs/faq
-sort_key: C
+sort_key: B
 ---
 
 **Q.**  I noticed my peercount slowly decrease, and now it is at 0.  Restarting doesn't get any peers.

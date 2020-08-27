@@ -7,8 +7,9 @@ You have found the user manual for SOLYD Studio, the Identity And Workflow Platf
 
 * [Getting Started Guide](./getting-started)
 * [Cloud Startup Instructions](./signup-and-start/installing-geth)
-* [JSON-RPC Server](./rpc/server)
-* [JavaScript Console](./interface/javascript-console)
+* [API & Hooks](./api/types)
+* [Connecting Blockchains](./interface/Blockchain-Network)
+* [Connecting External Systems](./interface/external-systems)
 
 For the Go API reference and developer documentation head over to
 [GoDoc](https://godoc.org/github.com/Cyberiums/cyberium).

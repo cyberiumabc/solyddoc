@@ -1,5 +1,5 @@
 ---
-title: Private Networks
+title: Multi Blockchain Networks
 sort_key: B
 ---
 

@@ -47,11 +47,11 @@ collections:
     caption: For dApp Developers
     frontpage: _dapp/native.md
     sidebar_index: 4
-  rpc:
+  api:
     output: true
     permalink: docs/:collection/:slug
     caption: API & Hooks
-    frontpage: _rpc/server.md
+    frontpage: _api/types.md
     sidebar_index: 5
   developers:
     output: true
