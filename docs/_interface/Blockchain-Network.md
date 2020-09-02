@@ -3,11 +3,9 @@ title: Multi Blockchain Network
 sort_key: A
 ---
 
-This guide explains how to set up a multi blockchain network of variety of blockchains using SOLYD & Cyberium. Geth nodes. An Cyberium
-network is a private network if the nodes are not connected to the main network. In this
-context private only means reserved or isolated, rather than protected or secure.
+This guide explains how to set up a multi blockchain network of variety of blockchains using SOLYD & Cyberium. The connection workflow is created on SOLYD whereas Cyberium provides the identity operation over decentralized network acting as open mechanism to facilitate contracting and messaging. This way SOLYD and Cyberium build a network of networks.
 
-### Choosing A Network ID
+### Choosing Blockchain Combination
 
 The network ID is an integer number which isolates Cyberium peer-to-peer networks.
 Connections between blockchain nodes will occur only if both peers use the same genesis
