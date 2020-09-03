@@ -74,23 +74,23 @@ collections:
 
 collections_dir: blogs
 collections:
-  getting-started:
+  articles:
     output: true
     caption: Articles
     sidebar_index: 1
     frontpage: _getting-started/index.md
-  signup-and-start:
+  videos:
     output: true
     permalink: docs/:collection/:slug
     caption: Videos
     sidebar_index: 2
     frontpage: _signup-and-start/signup-studio-account.md
-  interface:
+  webinars:
     output: true
     permalink: docs/:collection/:slug
     caption: Webinars
     sidebar_index: 3
-  dapp:
+  events:
     output: true
     permalink: docs/:collection/:slug
     caption: Events
