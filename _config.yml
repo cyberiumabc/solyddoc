@@ -71,11 +71,3 @@ collections:
     caption: Blockchain
     sidebar_index: 8
     frontpage: _whisper/Whisper-Overview.md
-
-collections_dir: blogs
-collections:
-  articles:
-    output: true
-    caption: Articles
-    sidebar_index: 1
-    frontpage: _articles/index.md
