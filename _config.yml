@@ -84,7 +84,7 @@ collections:
     permalink: blogs/:collection/:slug
     caption: Videos
     sidebar_index: 2
-    frontpage: _videos/signup-studio-account.md
+    frontpage: _videos/index.md
   webinars:
     output: true
     permalink: blogs/:collection/:slug
@@ -94,5 +94,5 @@ collections:
     output: true
     permalink: blogs/:collection/:slug
     caption: Events
-    frontpage: _events/native.md
+    frontpage: _events/index.md
     sidebar_index: 4
