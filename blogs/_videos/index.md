@@ -1,6 +1,6 @@
 ---
-title: Getting Started with Geth
-permalink: docs/getting-started
+title: Videos
+permalink: blogs/videos
 sort_key: A
 ---
 

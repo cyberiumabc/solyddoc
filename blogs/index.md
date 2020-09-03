@@ -1,5 +1,5 @@
 ---
-title: SOLYD Studio Documentation
+title: SOLYD Blogs, Videos, Webinars, & Events
 root: ..
 ---
 
