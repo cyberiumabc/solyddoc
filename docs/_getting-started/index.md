@@ -1,19 +1,17 @@
 ---
-title: Getting Started with Geth
+title: Getting Started with SOLYD
 permalink: docs/getting-started
 sort_key: A
 ---
 
-To use Geth, you need to install it first. You can install the geth software in a variety
-of ways. These include installing it via your favorite package manager; downloading a
-standalone pre-built binary; running as a docker container; or building it yourself.
+To use SOLYD, you need to signup for cloud or install it first. You can install the SOLYD software in a single server mode or cluster mode for enterprise. SOLYD can also run as a docker container or Kubernetes cluster.
 
 For this tutorial, we'll assume you are comfortable with downloading a pre-built binary.
 Head over to the [Cloud Startup](./signup-and-start/installing-geth) section and
 follow the instructions for your operating system if you wish to use a different
 installation method.
 
-### Downloading Geth
+### Single Server - Good for testing
 
 We distribute all our stable releases and development builds as standalone binaries. These
 are useful for scenarios where you'd like to: a) install a specific version of our code
