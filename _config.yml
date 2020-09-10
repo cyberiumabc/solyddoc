@@ -71,11 +71,3 @@ collections:
     caption: Blockchain
     sidebar_index: 8
     frontpage: _whisper/Whisper-Overview.md
-
-collections_dir: webinars
-collections:
-  getting-started:
-    output: true
-    caption: Webinars
-    sidebar_index: 1
-    frontpage: _api_security/index.md
