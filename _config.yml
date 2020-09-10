@@ -59,15 +59,21 @@ collections:
     caption: Screen Design
     frontpage: _developers/devguide.md
     sidebar_index: 6
-  clef:
+  script:
     output: true
     permalink: docs/:collection/:slug
     caption: Scripts
     sidebar_index: 7
-    frontpage: _clef/Tutorial.md
-  whisper:
+    frontpage: _script/Tutorial.md
+  blockchain:
     output: true
     permalink: docs/:collection/:slug
     caption: Blockchain
     sidebar_index: 8
-    frontpage: _whisper/Whisper-Overview.md
+    frontpage: _blockchain/Blockchain-Overview.md
+  partnership:
+    output: true
+    permalink: docs/:collection/:slug
+    caption: Partnership
+    sidebar_index: 9
+    frontpage: _partnership/Partnership-Overview.md
